@@ -10,3 +10,5 @@
 
 
 #### Jednotlivé súbory .ipynb obsahujú prakticky vypracované úlohy zo zadania aj s textovým sprevodným textom - popisu vypracovania.
+
+## Súbory je možné si pozrieť aj online (prezretím linku), bez sťahovania. 
